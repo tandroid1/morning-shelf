@@ -4,6 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'morning-shelf',
     environment: environment,
+    solrBaseURL: 'http://YOUR-SOLR-HOST-HERE/',
     rootURL: '/',
     locationType: 'auto',
     EmberENV: {

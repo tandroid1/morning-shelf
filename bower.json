@@ -1,0 +1,6 @@
+{
+  "name": "morning-shelf",
+  "dependencies": {
+    "json-bignum": "^0.0.1"
+  }
+}
